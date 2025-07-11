@@ -317,4 +317,4 @@ These opportunities were recently posted to the [RSE Opportunities page](https:/
 
 © US-RSE • 2021–{{ 'now' | date: "%Y" }} • US-RSE is a fiscally sponsored project of [Community Initiatives](http://communityin.org/)
 
-[Email](mailto:contact@us-rse.org) [Mastodon](https://fosstodon.org/@us_rse) [Twitter](https://twitter.com/us_rse) [YouTube](https://youtube.com/@us_rse) [LinkedIn](https://linkedin.com/company/us-rse/) [GitHub](https://github.com/USRSE)
+[Email](mailto:contact@us-rse.org) [Mastodon](https://fosstodon.org/@us_rse) [BlueSky](https://bsky.app/profile/us-rse.bsky.social) [YouTube](https://youtube.com/@us_rse) [LinkedIn](https://linkedin.com/company/us-rse/) [GitHub](https://github.com/USRSE)

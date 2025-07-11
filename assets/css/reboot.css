@@ -2241,15 +2241,15 @@ tr, td, th {
     background-color: #2f477a;
     color: #fff;
 }
-.btn--twitter {
+.btn--bluesky {
     background-color: #55acee;
     color: #fff;
 }
-.btn--twitter:visited {
+.btn--bluesky:visited {
     background-color: #55acee;
     color: #fff;
 }
-.btn--twitter:hover {
+.btn--bluesky:hover {
     background-color: #448abe;
     color: #fff;
 }
@@ -5247,7 +5247,7 @@ a.usrse-event, a.usrse-event:visited, a.usrse-event:focus {
 }
 .add-to-calendar-label:before {
     content: "\f271";
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 6 Free";
     position: absolute;
     top: 0;
     left: 1em;
@@ -5424,7 +5424,7 @@ html {
     padding-top: 2em;
 }
 select.registration-menu {
-    font-family: 'Font Awesome 5 Free',  'sans-serif';
+    font-family: 'Font Awesome 6 Free',  'sans-serif';
     text-align: left;
     -webkit-appearance: none;
     -moz-appearance: none;
